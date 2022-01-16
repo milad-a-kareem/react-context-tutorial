@@ -1,0 +1,21 @@
+.header{
+    height: 70px;
+    padding: 20px;
+    background:cyan;
+    width: 100%;
+}
+
+.dark{
+    background:rgb(28, 49, 49);
+}
+
+
+.post-background{
+    background:rgb(211, 255, 255);
+}
+
+.post-dark{
+    background:rgb(60, 70, 70);
+    color:white;
+}
+
